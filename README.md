@@ -1,4 +1,4 @@
-#Recipe Recommender AI
+Recipe Recommender AI
 
 This project is an AI-powered recipe generator that suggests recipes based on the ingredients you have and your dietary preferences. It uses natural language processing (NLP) to preprocess ingredients and match them with a database of recipes.
 
