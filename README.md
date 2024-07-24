@@ -1,1 +1,1 @@
-# AI-Recipe-Recommender
+#Recipe Recommender AI
